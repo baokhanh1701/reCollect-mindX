@@ -1,2 +1,2 @@
-console.log("Hello World Toan!");
-//TEST
+console.log("trung hello");
+console.log("Hello world Khanh");
